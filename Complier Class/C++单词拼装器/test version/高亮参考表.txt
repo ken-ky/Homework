@@ -1,0 +1,13 @@
+Num Blue
+Keyword MediumOrchid
+Name MediumBlue
+Special Aquamarine
+Note Lime
+AssignOp LimeGreen
+NumOp BlueViolet
+RelaOp DarkOrange
+BitOp Gold
+StrOp LawnGreen
+OthOp OliveDrab
+LogOp PaleGreen
+ConOp Peru
