@@ -1,0 +1,17 @@
+void e;
+int a, c = 3;
+float b = 3.4;
+double Pi = 3.14;
+
+int _fun1(int arg1, int arg2) {
+    arg1 = arg1 + arg2 * a - arg2;
+    if(arg1 % 2 == 1) {
+        return 1;
+    }
+    else {
+        do {
+            arg1 = arg1 + 1;
+        } while(arg1 % 3 != 2);
+        return arg1;
+    }
+}
